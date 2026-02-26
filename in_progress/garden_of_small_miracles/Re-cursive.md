@@ -2,35 +2,56 @@
 
 **Created:** 2026-02-21
 
-Instrumentation
-- Fingerpicked guitar in looping patterns, subtle looped cello ostinato, soft synth pad that evolves each chorus.
-- Light electronic clicks to mimic recursion; sparse shaker.
+[Haiku Intro]
+In the fields, my love,
+Stomping circles through the clay
+Footprints left to make
 
-Focus
-- Patterns we repeat in life (habits, stories told again); recursive daily rituals that both comfort and trap.
+[Verse 1]
+Aye, you know the one
+That pub down the street?
+They shut the door, don't let a breeze in
+So no matter if you are smiling or cursing
+The smell still lingers in the curtains
+Well, same thing to do tonight
+And me and you have changed our minds
+And now we're walking back
+To do all it over
 
-Hook
-- Phrase that folds on itself: "Round and round, same as it was — again, again, begin."
+[Pre-Chorus]
+Isn't it funny?
+Guess our nature is muddy
 
-Structure
-- Haiku intro (image of repeating step)
-- Verse (short vignette + rhyme)
-- Prechorus (questioning)
-- Chorus (repetitive, slightly different each time — layered harmonies)
-- Interlude (a loop that drops out to a single instrument)
+[Chorus]
+Ah, round, round
+It comes 'round, 'round
+It comes 'round, 'round
+It comes 'round, 'round
+[Interlude]
+[Fingers pickin', clicking on repeat]
 
-Lyrical seed
+[Verse 2]
+Aye, you know the one
+That's over in the hay?
+We lay there every Saturday
+And the light floats down and lands on her face
+And she smells like the golden hour every day
+She asks how I've been
+And it's a bit like telling your twin
+'Cause she just goes and nods her head
+And then we both cry
 
-Haiku:
-Footprints in soft clay,
-one step returns to the same gloss,
-circles hold our names.
+[Pre-Chorus]
+Isn't it funny?
+Guess our nature is muddy
 
-Chorus sketch:
-Round and round, we learn the tune,
-we hum the circle in the afternoon.
-Round and round, we stitch the seam,
-and fold the old into a new dream.
+[Chorus 2]
+Ah, round, round
+It comes 'round, 'round
+It comes 'round, 'round
+[Harmonies build]
+It comes 'round, 'round
 
-Production note
-- Automate micro-variations in loops so each iteration feels alive; chorus adds a new harmony each repeat.
+[Outro]
+In the fields, my love,
+Stomping circles through
