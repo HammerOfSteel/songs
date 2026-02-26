@@ -1,0 +1,10 @@
+.keep_token
+.venv/
+__pycache__/
+*.pyc
+*.zip
+takeout_raw/
+fetch_keep.py
+get_token.py
+check_auth.py
+convert_keep.py
