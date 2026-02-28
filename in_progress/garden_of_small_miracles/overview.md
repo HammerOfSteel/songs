@@ -34,7 +34,7 @@ Seed tracklist (first pass)
 2. Salt Drips — half‑rap cadence, alchemical irony, tap-beat guitar
 3. Cling Clang — kitchen percussion turned into rhythm; tinplate, kalimba; chant hook
 4. Re-cursive — looping fingerpicked patterns; subtle electronic clicks; iterative chorus
-5. Boil and Bubble — simmering pot metaphors; marimba accents and kettle samples
+5. Boil and Bubble — simmering pot metaphors; full of banter between two friends, like welsh witches banter?; marimba accents and kettle samples
 6. Abra-Kadabra — domestic incantations; toy piano, glockenspiel, whispered chorus
 7. Cloudberry Blues — nordic-folk melancholy; slide guitar, harmonium, sparse percussion
 8. 絶体絶命 (Zettai zetsumei) — crisis as tiny luminous acts; sparse piano, shakuhachi color
