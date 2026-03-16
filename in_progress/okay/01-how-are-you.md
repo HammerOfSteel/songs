@@ -34,10 +34,10 @@
 [Intro]
 [spoken, both voices, close and conspiratorial, no music yet — single bass note on the last word]
 
-V1: Right. Okay. You've got this.
-V2: Someone's gonna ask. They always ask.
-V1: And when they do —
-V2: When they do —
+[V1]: Right. Okay. You've got this.
+[V2]: Someone's gonna ask. They always ask.
+[V1]: And when they do —
+[V2]: When they do —
 Both: What are you gonna say?
 
 [drums and guitar kick in]
@@ -47,17 +47,17 @@ Both: What are you gonna say?
 [Verse 1]
 [V1 leads, V2 cuts in — upbeat rap cadence, British indie bounce, both voices warm and slightly wry]
 
-V1: "Fine" — yeah that's a good one, keep it clean and quick,
+[V1]: "Fine" — yeah that's a good one, keep it clean and quick,
 Two syllables, no blinking, pick a smile and stick,
-V2: "Getting there" — now where's there though, mate, you clocked that yet?
+[V2]: "Getting there" — now where's there though, mate, you clocked that yet?
 Getting there implies a destination and you haven't left —
-V1: Haven't left the same spot since the world went wrong,
-V2: "I'm alright" — that's four words short of a proper song,
-V1: "You know how it is" — no they don't, that's the bit,
+[V1]: Haven't left the same spot since the world went wrong,
+[V2]: "I'm alright" — that's four words short of a proper song,
+[V1]: "You know how it is" — no they don't, that's the bit,
 They've got their version of okay and yours just doesn't fit —
-V2: Doesn't fit the box they're holding, doesn't fit the form,
-V1: "Soldiering on" — ooh there's a cracker, nice and warm,
-V2: Bit of grit, bit of chin up, bit of British pluck —
+[V2]: Doesn't fit the box they're holding, doesn't fit the form,
+[V1]: "Soldiering on" — ooh there's a cracker, nice and warm,
+[V2]: Bit of grit, bit of chin up, bit of British pluck —
 Both: Doesn't have to mean a thing, and that's the luck.
 
 ---
@@ -89,18 +89,18 @@ Well — that's a longer conversation and we're not there now.
 [Verse 2]
 [V2 leads now, cadence tightens, gets a little more personal underneath the bounce]
 
-V2: "Bearing up" — ooh that's a classic, bit old school,
+[V2]: "Bearing up" — ooh that's a classic, bit old school,
 Sounds like you've read the manual, played it cool,
-V1: "Mustn't grumble" — nuclear option, shuts it down,
+[V1]: "Mustn't grumble" — nuclear option, shuts it down,
 No follow-up required, just tip your hat and leave the town —
-V2: "Day by day" — now that one's got a bit of truth,
+[V2]: "Day by day" — now that one's got a bit of truth,
 Doesn't ask for more than that, doesn't ask for proof,
-V1: Try "surviving" — bit too real? Yeah, clocked the face,
-V2: "One foot in front" — that's closer, but there's still no space —
-V1: Still no space to say the thing that lives behind the word,
+[V1]: Try "surviving" — bit too real? Yeah, clocked the face,
+[V2]: "One foot in front" — that's closer, but there's still no space —
+[V1]: Still no space to say the thing that lives behind the word,
 Still no shorthand in the language for what actually occurred —
-V2: So you borrow what they give you, wrap it up and go,
-V1: And the honest answer never gets a chance to show.
+[V2]: So you borrow what they give you, wrap it up and go,
+[V1]: And the honest answer never gets a chance to show.
 
 ---
 
@@ -142,22 +142,22 @@ I —
 
 [V2 cuts back in, rhythm snaps back instantly]
 
-V2: Yeah. Nah. We'll come back to that.
+[V2]: Yeah. Nah. We'll come back to that.
 
 ---
 
 [Outro]
 [full band back, same bounce as the intro — like nothing happened]
 
-V2: Alright! You ready?
-V1: Head up, hold steady —
-V2: Here they come, smile on, not long —
-V1: Deep breath, two syllables, nothing wrong —
-V2: "Fine" — no wait — "getting there" — no actually —
-V1: Something in between, something vaguely —
+[V2]: Alright! You ready?
+[V1]: Head up, hold steady —
+[V2]: Here they come, smile on, not long —
+[V1]: Deep breath, two syllables, nothing wrong —
+[V2]: "Fine" — no wait — "getting there" — no actually —
+[V1]: Something in between, something vaguely —
 
 [music continues at full bounce — V1's voice trails, the word doesn't arrive]
 
-V1: I'm —
+[V1]: I'm —
 
 [hard cut to silence]
