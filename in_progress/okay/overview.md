@@ -35,16 +35,18 @@
 **Voice:** Interior, close, unspecified
 **What it does:** The villanelle form *is* the grief — you keep returning to the same two lines whether you want to or not. Nothing happens. It is Tuesday. The world continues. The cruelty of the ordinary day made structural by the form itself.
 **Emotional register:** Numb, quietly relentless. The repetition does the emotional work so the words don't have to shout.
-**Music:** Minimal — one instrument, voice. The refrain lines land the same way each time. The music does not rescue them.
+**Music:** Minimal — one instrument acoustic, voice. The refrain lines land the same way each time. The music does not rescue them.
+**Music_Style** UK indie - think "hot hot heat" early 2008 UK indie british indie mixed in with that acoustic mathfolk style of "the arcadian wilds"
 
 ---
 
 ### 3. *Penelope*
-**Form:** Myth retelling — ballad structure, narrative voice
-**Voice:** Penelope — but not waiting for Odysseus. Waiting for the thing before Odysseus.
+**Form:** Myth retelling — rap candance and sentence to sentence rhyme structure.
+**Voice:** Penelope — think gorillaz style girl voice but not waiting for Odysseus. Waiting for the thing before Odysseus.
 **What it does:** She unweaves what she weaved. Every night she undoes the day. Not as strategy, not as waiting — as the only honest response to a world that keeps asking her to move forward. The myth carries the weight so the lyric doesn't have to name it directly.
 **Emotional register:** Ancient, patient, quietly devastating. The repetition of the unweaving as both trap and practice.
-**Music:** Slow, sparse, folk-adjacent. The sound of something being undone by hand.
+**Music:** upbeat, funky gorillaz undertones. The sound of something being undone by hand, modern language of poetry and slang mixed.
+**Music_Style** UK rap cadance - think gorillaz and rizzle kicks, upbeat feel with some variable temps
 
 ---
 
@@ -53,7 +55,7 @@
 **Voice:** Someone trying to file a report; a clerk who has no category for what's being reported
 **What it does:** Grief attempts to register itself officially. The boxes on the form are the wrong shape. It is transferred to another department. Put on hold. The hold music plays. Dark comedy that turns on itself — the absurdity is funny until it isn't, then it is again.
 **Emotional register:** Sardonic, then briefly raw, then sardonic again. The wryest song on the record.
-**Music:** Should feel slightly bureaucratic — clean, slightly cold. Maybe a phone hold tone somewhere underneath.
+**Music:** Gorillaz lyrical structure and feel, Should feel slightly bureaucratic — clean, slightly cold. Maybe a phone hold tone somewhere underneath.
 
 ---
 
@@ -62,7 +64,7 @@
 **Voice:** The bereaved at the lost property counter; a clerk who only understands objects
 **What it does:** Size? Shape? Where did you last have it? The form is for objects. This is not an object. The clerk is not cruel — they simply have no category. The song is about the impossibility of describing the loss in any language the world provides.
 **Emotional register:** Wry and bureaucratic on the surface, completely broken underneath. Sister piece to Form 7B but more tender, less cold.
-**Music:** Warmer than Form 7B — acoustic, close. The absurdism here is sadder than funny.
+**Music:** Gorillaz lyrical structure and feel, Warmer than Form 7B — acoustic, close. The absurdism here is sadder than funny.
 
 ---
 
@@ -71,7 +73,7 @@
 **Voice:** The grieving person at an unmarked point in time
 **What it does:** A day when it was almost okay. The sun was out. Something was funny. The grief was there but quiet. And the good day is as hard as the bad one — because the guilt arrives with it, because the good day feels like a betrayal, because it proves that life is continuing and continuing feels like leaving her behind.
 **Emotional register:** Shifts — starts almost light, the warmth undercut by the guilt, ends in something tired and honest rather than resolved.
-**Music:** Should start with a little warmth in the sound, then quietly complicate itself.
+**Music:** math-folk - the arcadian wilds feel strings picked and mandolin, Should start with a little warmth in the sound, then quietly complicate itself.
 
 ---
 
@@ -80,7 +82,7 @@
 **Voice:** An astronomer at their telescope
 **What it does:** A person who spends their life looking at things unreachably far away. One night the sky is clear and one thing is missing from its usual place. They keep the log. They note the absence with the same hand they note everything else. They look at everything else, carefully, because that is what you do. The grief is entirely in the form — never said.
 **Emotional register:** Meditative, vast, precise. The most distanced song on the record — which makes it, in its own way, the most exposed.
-**Music:** Sparse and slow. Long spaces. The sound of something very far away.
+**Music:** cold play feel think "speed of sound", Sparse and slow. Long spaces. The sound of something very far away.
 
 ---
 
