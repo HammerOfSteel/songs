@@ -53,9 +53,9 @@
 ### 4. *Form 7B*
 **Form:** Absurdist — bureaucratic surrealism, verse with repeated refrain
 **Voice:** Someone trying to file a report; a clerk who has no category for what's being reported
-**What it does:** Grief attempts to register itself officially. The boxes on the form are the wrong shape. It is transferred to another department. Put on hold. The hold music plays. Dark comedy that turns on itself — the absurdity is funny until it isn't, then it is again.
+**What it does:** Grief (not named as such) attempts to register itself officially. The boxes on the form are the wrong shape. It is transferred to another department. Put on hold. The hold music plays. Dark comedy that turns on itself — the absurdity is funny until it isn't, then it is again.
 **Emotional register:** Sardonic, then briefly raw, then sardonic again. The wryest song on the record.
-**Music:** Gorillaz lyrical structure and feel, Should feel slightly bureaucratic — clean, slightly cold. Maybe a phone hold tone somewhere underneath.
+**Music:** Gorillaz lyrical structure and feel - think "feel good inc", or "19/2000" kind of beat and feel, Should feel slightly bureaucratic — clean, slightly cold. Maybe a phone hold tone somewhere underneath.
 
 ---
 
@@ -64,7 +64,7 @@
 **Voice:** The bereaved at the lost property counter; a clerk who only understands objects
 **What it does:** Size? Shape? Where did you last have it? The form is for objects. This is not an object. The clerk is not cruel — they simply have no category. The song is about the impossibility of describing the loss in any language the world provides.
 **Emotional register:** Wry and bureaucratic on the surface, completely broken underneath. Sister piece to Form 7B but more tender, less cold.
-**Music:** Gorillaz lyrical structure and feel, Warmer than Form 7B — acoustic, close. The absurdism here is sadder than funny.
+**Music:** Gorillaz lyrical structure and feel, Warmer than Form 7B — acoustic, close more quirky with maybe like a theramin. The absurdism here is sadder than funny.
 
 ---
 
@@ -115,8 +115,14 @@
 
 ### 11. *Tima*
 **Form:** Song — builds from near-silence to full voice; the name arrives at the peak
-**Voice:** Direct address — second person, spoken to her
+**Voice:** Direct address — second person, spoken to her told as a story but could be said to any lost child by any bereaved parent, not spoken to by name directly but sometimes using pet names like daffodil or little star.
 **What it does:** The album's reckoning. Starts plain and close, almost spoken, building verse by verse. By the chorus it is fully sung. The name comes at the highest point — not a whisper, not a ceremony, just the name, said at full voice, as itself. After it: the album ends.
+**Lyrical structure** Every new line begins with the Letter of her name like
+T
+I
+M
+A
+and every sentence (line) rhymes with the next line and this occurd through out the song.
 **Emotional register:** Everything the album has been, accumulated. Starts meditative, moves through raw, arrives at something that is not okay and is not not-okay — it is simply true.
 **Music:** Builds with the lyric. Starts with single instrument, adds layer by layer. The name — and then the music doesn't resolve. It holds the note and fades.
 **Note:** This is the only place on the entire album where the name is spoken. It is given its full weight by everything that preceded it.
