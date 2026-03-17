@@ -24,6 +24,38 @@ This is the sister piece to Form 7B — but while that song was sardonic and col
 - Theremin: the emotional register that can't be spoken — enters when the Person pauses, when the answer is too large for the question; wavering, slightly uncanny, never overwhelming
 - Ballad structure rather than rap cadence — slower, more melodic than Form 7B; the questions are the recurring structural anchor rather than a drum machine groove
 
+---
+
+## Alternative Style + Instrumentation Options
+*(swap any of these in for testing — all keep UK British male lead and optional British female child voice)*
+
+### A — Upbeat Gorillaz / Clint Eastwood Energy *(recommended for more punch)*
+- **Style:** Gorillaz "Clint Eastwood" / "Stylo" register — upbeat hip-hop groove, slightly eerie underneath the bounce; feels light until it doesn't
+- **Instrumentation:** hip-hop drum loop (punchy snare, tight kick), synth bass, theremin as a recurring melodic hook rather than atmosphere, clean electric guitar on the off-beat
+- **Vocals:** UK British male lead rapping the Person's lines — easy cadence, not anxious; the Clerk sung cleanly over the groove; **British female child voice** appears on The Questions sections only — she asks the questions simply, like it's a game, which makes them hit harder
+- **Tempo:** upbeat throughout; the contrast between the groove and the content is the whole point
+
+### B — Gorillaz "DARE" / Feel Good Inc Funk
+- **Style:** driving funk groove — tight, slightly cold, very Gorillaz mid-period; upbeat and danceable on the surface
+- **Instrumentation:** funk drum machine, fat synth bass, wah guitar stabs, theremin as a high melodic line above it all
+- **Vocals:** UK British male verses (rap cadence); **British female child voice** sings the Clerk's questions — bright, matter-of-fact, a little sing-song; devastating in context
+- **Variable tempo:** verses drive hard; bridge drops to half-time; snaps back on the last line
+
+### C — Gorillaz "Rhinestone Eyes" Dreamy Upbeat
+- **Style:** upbeat but hazy — like "Rhinestone Eyes" or "On Melancholy Hill" at a slightly faster BPM; the bounce has something woozy underneath it
+- **Instrumentation:** programmed drums (slightly loose feel), analogue synth lead, bass synth walking, theremin as a sustained background texture, acoustic guitar picked lightly
+- **Vocals:** UK British male sung (not rapped) — warm, slightly detached; **British female child voice** on the bridge only, asking "where did you last have it?" once, plain and clear, before the male voice answers; that single child question flips the whole emotional register of the bridge
+
+### D — Gorillaz "New Genious (Brother)" Gospel-Funk Upbeat
+- **Style:** upbeat gospel-funk, bright and propulsive — "New Genious" territory; energy from the start, the sadness sneaks in through the words
+- **Instrumentation:** live-sounding drums (slightly roomy), gospel organ stabs, synth bass, sharp guitar, theremin as countermelody on the chorus
+- **Vocals:** UK British male lead rapping verses with gospel delivery on the hook; **British female child voice** as a call-and-response on the Question sections — she asks each question, he tries to answer; two registers, neither adequate
+
+### E — Gorillaz "Humanz" Electronic Indie Crossover
+- **Style:** electronic indie, slightly anxious energy — think "Hallelujah Money" or "Ascension" but warmer; upbeat with unease underneath
+- **Instrumentation:** electronic drum pads, layered synths, theremin prominent in the mix as a melodic instrument, minimal guitar, bass synth deep and present
+- **Vocals:** UK British male spoken-word verses over the beat, sung chorus; **British female child voice** delivers the outro verse — she reads out the reference number and the final four lines ("I say thank you. They say anytime. / The door opens. The door closes.") plain and unhurried; last voice heard before the theremin takes over
+
 ## Instrumentation
 - Acoustic guitar: fingerpicked, warm, close-mic'd — establishes before the voice arrives
 - Theremin: enters on the first long pause; reappears whenever the Person's answer runs out; the instrument of the unspeakable
