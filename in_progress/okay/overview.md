@@ -82,7 +82,7 @@
 **Voice:** An astronomer at their telescope
 **What it does:** A person who spends their life looking at things unreachably far away. One night the sky is clear and one thing is missing from its usual place. They keep the log. They note the absence with the same hand they note everything else. They look at everything else, carefully, because that is what you do. The grief is entirely in the form — never said.
 **Emotional register:** Meditative, vast, precise. The most distanced song on the record — which makes it, in its own way, the most exposed.
-**Music:** cold play feel think "speed of sound", Sparse and slow. Long spaces. The sound of something very far away.
+**Music:** cold play or muse feel think "speed of sound" or "starlight", Sparse and slow. Long spaces. The sound of something very far away.
 
 ---
 
@@ -90,8 +90,8 @@
 **Form:** Myth retelling — direct, lyric, not quite a ballad
 **Voice:** Orpheus after he looks back. After Eurydice is gone the second time.
 **What it does:** Not the looking back — that story has been told. This is what happens after. What Orpheus does with his hands when they are empty. What the walk back up from the underworld looks like when there is nothing to walk toward. The myth asks: what is the shape of a life after the second loss?
-**Emotional register:** Raw, stripped. The grief of the person who tried everything and it still wasn't enough. No self-pity — just the plain fact of the empty hands.
-**Music:** Builds through the song. Should feel like the walk upward — effortful, without destination.
+**Emotional register:** Raw, rap british male voice. The grief of the person who tried everything and it still wasn't enough. No self-pity — just the plain fact of the empty hands.
+**Music:** UK british rap indie influences, think rizzle kicks more upbeat cadance, acoustic plucked beat maybe some irish feel to it, lyrics more british style slang.
 
 ---
 

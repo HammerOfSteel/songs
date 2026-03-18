@@ -47,7 +47,7 @@ The light was on the tiles at eight o'clock this morning,
 I drank my coffee without hurry and gave the day no warning.
 The garden had turned green overnight without my knowing,
 I stood at the window and called it good and felt something close to going.
-The grief was there — it always is, it knows exactly where I live —
+And that was there — it always is, it knows exactly where I live —
 But it sat in the chair by the wall and had nothing to give.
 
 ## [Chorus]
