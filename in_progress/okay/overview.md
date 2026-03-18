@@ -98,9 +98,9 @@
 ### 9. *Forgetting*
 **Form:** Song — verse/chorus, language occasionally breaks mid-line
 **Voice:** Interior — the bereaved person alone
-**What it does:** The terror of forgetting. The forgetting that happens anyway despite the terror. The voice of her, growing less exact. The specific details — the way she said a particular word, the weight of her hand — blurring at the edges. And inside the forgetting: the love is still there, intact, even as the details soften. The song holds both the terror and the grace of it.
+**What it does:** The terror of forgetting. The forgetting that happens anyway despite the terror. The voice of her, growing less exact. The specific details — the way she said a particular word, the weight of her hand — blurring at the edges (especially when looking at other children or other people). And inside the forgetting: the love is still there, intact, even as the details soften. The song holds both the terror and the grace of it.
 **Emotional register:** Afraid, then tender, then quietly broken. The language itself may start to blur toward the end — incomplete lines, words that don't arrive.
-**Music:** Should feel slightly memory-soft. Edges not quite sharp. Something that dissolves slightly at the end.
+**Music:** British 2007 indie think hot hot heat, up-beat but instruments silver flute and lute 
 
 ---
 
@@ -109,8 +109,7 @@
 **Voice:** Someone who can see it; addressing someone else who might
 **What it does:** A second moon appeared some years ago, visible only to some people. Not everyone can see it. Those who can recognise each other by the way they look up. It does not make the night brighter. It makes it more specific. The song is about the community of the bereaved — the recognition, the not-being-alone, the particular vision that grief gives and takes simultaneously.
 **Emotional register:** Quiet wonder, bittersweet. One of the warmer songs on the record without being consoling.
-**Music:** Should feel like night. Open, slightly cold, but not hostile. Spacious.
-
+**Music:** british indie - cold play or muse feel think "speed of sound" or "starlight" but little more upbeat and almost lullaby like inthe lyrical structure. Long spaces. The sound of something very far away.
 ---
 
 ### 11. *Tima*
@@ -118,13 +117,13 @@
 **Voice:** Direct address — second person, spoken to her told as a story but could be said to any lost child by any bereaved parent, not spoken to by name directly but sometimes using pet names like daffodil or little star.
 **What it does:** The album's reckoning. Starts plain and close, almost spoken, building verse by verse. By the chorus it is fully sung. The name comes at the highest point — not a whisper, not a ceremony, just the name, said at full voice, as itself. After it: the album ends.
 **Lyrical structure** Every new line begins with the Letter of her name like
-T
+Tß
 I
 M
 A
 and every sentence (line) rhymes with the next line and this occurd through out the song.
 **Emotional register:** Everything the album has been, accumulated. Starts meditative, moves through raw, arrives at something that is not okay and is not not-okay — it is simply true.
-**Music:** Builds with the lyric. Starts with single instrument, adds layer by layer. The name — and then the music doesn't resolve. It holds the note and fades.
+**Music:** UK rap cadance - think gorillaz and rizzle kicks, upbeat feel with some variable temps but its like a bunch of uncles singing sweet quirky fun thing to their 3 year old niece using pet names like daffodil, little star, little bird etc - Builds with the lyric. Starts with single instrument, adds layer by layer. The name — and then the music doesn't resolve. It holds the note and fades.
 **Note:** This is the only place on the entire album where the name is spoken. It is given its full weight by everything that preceded it.
 
 ---
