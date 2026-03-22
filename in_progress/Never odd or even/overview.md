@@ -49,6 +49,7 @@ some example could be like:
 
 ### 1. Do geese see God?
 **Form:** Absurdist prayer, choral call-and-response
+**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
 **Description:** A gentle, whimsical meditation on the unknowable, with children and adults trading lines. The chorus is a round, echoing the palindrome.
 **Music Style/Artists:** Choral indie, Sufjan Stevens, The Staves
 **Instrumentation:** Acoustic guitar, upright piano, group vocals, hand percussion, glockenspiel
@@ -56,6 +57,7 @@ some example could be like:
 ---
 
 ### 2. A Santa lived as a devil at NASA
+**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
 **Form:** Mischievous, space-camp romp, rap verses
 **Description:** A playful story of Santa’s secret life at NASA, with child and adult voices, group banter, and a twist ending. Rap verses alternate with sung choruses.
 **Music Style/Artists:** Upbeat rap/indie, Gorillaz, Rizzle Kicks, De La Soul
@@ -65,6 +67,7 @@ some example could be like:
 
 ### 3. A Toyota’s a Toyota
 **Form:** Road trip, family banter, group vocals
+**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
 **Description:** A family’s journey in a Toyota, with playful arguments, car sounds, and a chorus everyone can join. Each verse is a new leg of the trip, ending where it began.
 **Music Style/Artists:** Indie-pop, Belle & Sebastian, The Go! Team
 **Instrumentation:** Acoustic guitar, bass, handclaps, found sound (car doors, seatbelt clicks), group vocals
@@ -73,6 +76,7 @@ some example could be like:
 
 ### 4. Dammit, I’m mad!
 **Form:** Rap breakdown, escalating frustration
+**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
 **Description:** A comic, high-energy rap about a day going wrong, with the palindrome as a recurring hook. Ends in laughter and release.
 **Music Style/Artists:** Rap/spoken word, Beastie Boys, Dizraeli
 **Instrumentation:** Drum kit, bass, electric guitar, vocal FX, laughter samples
@@ -81,6 +85,7 @@ some example could be like:
 
 ### 5. God’s dog
 **Form:** Devotional, gentle duet
+**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
 **Description:** A song about loyalty and devotion, sung as a duet between a child and an adult. Simple, sweet, and quietly profound.
 **Music Style/Artists:** Acoustic folk, Iron & Wine, Simon & Garfunkel
 **Instrumentation:** Acoustic guitar, upright bass, soft harmonies, light percussion
@@ -89,6 +94,8 @@ some example could be like:
 
 ### 6. If I had a hi-fi
 **Form:** Chill-hop, dreamy, wishful
+**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
+**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
 **Description:** A song about music, wishes, and echoes, with a lo-fi, relaxed groove. Lyrics play with sound and repetition.
 **Music Style/Artists:** Chill-hop, lo-fi, Tom Misch, Nujabes
 **Instrumentation:** Electric piano, sampled beats, synths, vinyl crackle, soft vocals
@@ -97,6 +104,7 @@ some example could be like:
 
 ### 7. UFO tofu
 **Form:** Playful, synth-driven, nonsense chorus
+**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
 **Description:** An alien comfort food anthem, with childlike wonder and a chorus of nonsense syllables. Verses tell a story of a UFO chef.
 **Music Style/Artists:** Synth-pop, The Avalanches, Kero Kero Bonito
 **Instrumentation:** Synths, drum machine, bass, toy instruments, group vocals
@@ -105,6 +113,7 @@ some example could be like:
 
 ### 8. To idiot
 **Form:** Spoken word, playful language games
+**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
 **Description:** A witty, nonsense wisdom piece, with rapid-fire wordplay and shifting voices. Each verse is a new take on the palindrome.
 **Music Style/Artists:** Minimal, The Books, Laurie Anderson
 **Instrumentation:** Spoken word, minimal synth, upright bass, found sound
@@ -113,6 +122,7 @@ some example could be like:
 
 ### 9. Was it a car or a cat I saw?
 **Form:** Surreal, whimsical, two perspectives, duet
+**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
 **Description:** A playful duet between two characters who see the same event differently. The song structure mirrors itself, ending where it began.
 **Music Style/Artists:** Indie-pop, Regina Spektor, They Might Be Giants
 **Instrumentation:** Piano, acoustic guitar, hand percussion, vocal harmonies
