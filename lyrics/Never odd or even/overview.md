@@ -75,11 +75,11 @@ some example could be like:
 ---
 
 ### 4. Dammit, I’m mad!
-**Form:** Rap breakdown, escalating frustration
-**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
+**Form:** Rap breakdown, escalating small little frustrations, that in the end of the day nothing really phase you anymore, some brit slang etc
+**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always, british female kids/teen vocals (add those tags in the lyrics too like [british kid female vocal] etc)
 **Description:** A comic, high-energy rap about a day going wrong, with the palindrome as a recurring hook. Ends in laughter and release.
-**Music Style/Artists:** Rap/spoken word, Beastie Boys, Dizraeli
-**Instrumentation:** Drum kit, bass, electric guitar, vocal FX, laughter samples
+**Music Style/Artists:** rizzle kicks
+**Instrumentation:** Drum kit, bass, mandolin, vocal FX, laughter samples
 
 ---
 
@@ -94,7 +94,6 @@ some example could be like:
 
 ### 6. If I had a hi-fi
 **Form:** Chill-hop, dreamy, wishful
-**Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
 **Lyrical structure/flow/cadance:** Sentence to sentence rhyming always
 **Description:** A song about music, wishes, and echoes, with a lo-fi, relaxed groove. Lyrics play with sound and repetition.
 **Music Style/Artists:** Chill-hop, lo-fi, Tom Misch, Nujabes
